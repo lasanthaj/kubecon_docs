@@ -1,0 +1,28 @@
+template:
+    directory: website
+    index: index.md
+
+include:
+  - techdocs/
+  - content/
+
+exclude:
+    - Template-Dark
+    - vendor
+    - techdocs/hubot
+    - hubot
+    - docsgen
+
+#scripts:
+#    before:
+#        - lessc --clean-css website/less/main.less website/css/all.min.css
+
+baseUrl: http://demo.dev-bite.io
+#cname: demo.dev-bite.io
+
+title: Bitesize
+subTitle: Pearson's Platform as a Service
+
+menu:
+    items:
+        main:
