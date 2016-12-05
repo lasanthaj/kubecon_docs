@@ -10,7 +10,7 @@ Pearson Development teams have several opportunities by which to interact with B
 
  * [Kafka](/working-with-kafka.html) - Logging endpoint by which Developers can consume logs from each namespace for their applications.
 
- * [Grafana](/working-with-grafana.html) - A logged monitoring and graphing tool maintained and hosted by the Bitesize team for our customers
+ * [Grafana](/working-with-grafana.html) - A loggedeeeeeee monitoring and graphing tool maintained and hosted by the Bitesize team for our customers
 
 
 <br>
